@@ -5,8 +5,8 @@ Whether you're preparing for interviews, brushing up your database fundamentals,
 
 Summary
 
-Basic to intermediate SQL topics
+1. Basic to intermediate SQL topics
 
-50 essential SQL questions
+2. 50 essential SQL questions
 
-Best for 1 month of prep time
+3. Best for 1 month of prep time
